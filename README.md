@@ -1,3 +1,12 @@
+NOTE
+
+Changetrack has been pulled into GitHub primarily for reference and historry.
+It was an incredibly useful tool in its time, but is no longer functional
+on modern Linux systems.  As a result, I've created 
+[Changetrack-NG](https://github.com/cashell/changetrack-ng) as a modern
+replacement.  For all future development, please go there:
+- **Changetrack-NG**: https://github.com/cashell/changetrack-ng
+
 USE
 
 Changetrack is a program to monitor changes to a bunch of files. If files
@@ -47,3 +56,7 @@ TODO
 GETTING CHANGETRACK
 
 Changetrack is available at http://changetrack.sourceforge.net/
+
+AUTHOR
+
+Changetrack was written by Cameron Morland.
